@@ -1,0 +1,17 @@
+# Phishing Investigation
+
+## Alert
+Suspicious email attachment detected.
+
+## Investigation
+- Reviewed sender reputation
+- Checked hashes
+- Reviewed endpoint logs
+
+## Findings
+Malicious payload confirmed.
+
+## Action Taken
+- Host isolated
+- IOC blocked
+- Ticket escalated
